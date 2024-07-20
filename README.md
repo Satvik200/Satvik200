@@ -15,13 +15,14 @@
   </h3>
 </div>
 
-## 📘: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## 📘: About Me
 - 🖥 Senior
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Bachelors of Technology in Information Technology 𝚊𝚝 Maharaja Agrasen Institute of Technology, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 2024
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋.
+- 🎓 Completed Bachelors of Technology in Information Technology from Maharaja Agrasen Institute of Technology
+- 🎓 Studying Master of Science (Computer Science) from Politecnico di Milano, class of 2024
+- 🌐 You can access all my open-source projects here on GitHub.
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+## ⬆ What I'm up to
+- 🔨 I am currently...
 ```yaml
 Learning about Compilers, Operating Systems, and ofcourse trying to ace my university exams.
 ```
