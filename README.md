@@ -8,7 +8,7 @@
    "Code is like humor. When you have to explain it, it’s bad." ~Cory House
 </div>
 
-## 📘: About Me
+## 📘 About Me
 I am pursuing my Master's in Computer Science and Engineering at Politecnico di Milano. I am passionate about system programming, distributed systems, and Cloud Computing. With expertise in C++, Rust, JavaScript, and Python, I thrive on building high-performance, scalable solutions and tackling complex technical challenges.
 
 ## 🛠 **Tech Stack**  
